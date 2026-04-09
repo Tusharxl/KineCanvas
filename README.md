@@ -19,7 +19,7 @@ I'm running this on Python 3.12, but as long as you have 3.10 or higher, you're 
 First, grab the files:
 `git clone https://github.com/Tusharxl/KineCanvas.git && cd KineCanvas`
 
-Then you gotta install the libraries (OpenCV and MediaPipe mostly):
+Then you gotta install the libraries :
 `pip install -r requirements.txt`
 
 To start the app:
